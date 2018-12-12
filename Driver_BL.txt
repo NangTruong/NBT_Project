@@ -1,0 +1,7 @@
+UpdateDevice
+Register
+Login
+ForgotPassword
+ResetPassword
+ActivationAccount
+ResendActiveCode
