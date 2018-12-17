@@ -1,5 +1,9 @@
-Create
-Update
-Delete
-GetInformation
-GetAll
+UpdateDevice
+RegisterAccount
+Login
+ActiveAccount
+ResendActiveation
+ResetPassword
+ForgotPassword
+GetProfile
+UpdateProfile

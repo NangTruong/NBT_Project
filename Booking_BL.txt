@@ -1,4 +1,4 @@
 Create
 GetStatus
 GetDetail
-GetHistory
+GetHistorys
