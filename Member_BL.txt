@@ -7,3 +7,5 @@ ResetPassword
 ForgotPassword
 GetProfile
 UpdateProfile
+UpdateProfilePicture
+
