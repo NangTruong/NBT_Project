@@ -7,3 +7,5 @@ GetActive
 GetHistorys
 GetTimeline
 Rating
+resendInvoice(From machineOne)
+Refresh
