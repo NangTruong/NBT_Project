@@ -3,3 +3,5 @@ GetStatus
 GetDetail
 GetActive
 GetHistorys
+GetTimeline
+Rating
