@@ -3,6 +3,7 @@ Register
 Login
 ForgotPassword
 ResetPassword
+UpdatePassword
 ActivationAccount
 ResendActiveCode
 GetProfile
