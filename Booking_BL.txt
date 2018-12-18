@@ -7,4 +7,7 @@ GetActive
 GetHistorys
 GetTimeline
 Rating
-trackDelivery(From Machine Two)
+resendInvoice
+Refresh
+trackDelivery
+
