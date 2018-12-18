@@ -1,4 +1,6 @@
 Create
+Cancel
+Confirm
 GetStatus
 GetDetail
 GetActive
